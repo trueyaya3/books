@@ -45,7 +45,7 @@ pages:
     - 'Изначально содержимое енд сундука тоже копировалось,'
     - 'но люди просили это убрать, но это может вернуться.'
     - ''
-    - '<tooltip:Раздел перемещения><run command:/help>Использую команду /&bhelp<reset> можно быстро перейти в любой регион'
+    - '<tooltip:Раздел перемещения><run command:/help>Используя команду /&bhelp<reset> можно быстро перейти в любой регион'
 
 # For the placeholders to work correctly
 # you should download the Player and Vault
