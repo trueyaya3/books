@@ -6,7 +6,7 @@
 name: Регионы.
 
 # Book's title
-title: Регионы.
+title: Регионы(07.09.2021)
 
 # Book's author
 author: trueyaya3
@@ -44,6 +44,8 @@ pages:
   '4':
     - 'Изначально содержимое енд сундука тоже копировалось,'
     - 'но люди просили это убрать, но это может вернуться.'
+    - ''
+    - '<tooltip:Раздел перемещения><run command:/help>Использую команду /&bhelp<reset> можно быстро перейти в любой регион'
 
 # For the placeholders to work correctly
 # you should download the Player and Vault
