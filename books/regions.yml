@@ -1,0 +1,45 @@
+# This is an example book to show how to create one
+# Note: The placeholders in this book (like %player_name%) need PlaceholderAPI installed
+# with the proper expansion, see here for more informations: https://www.spigotmc.org/resources/placeholderapi.6245/
+
+# Item's name
+name: regions.
+
+# Book's title
+title: Регионы.
+
+# Book's author
+author: trueyaya3
+
+# Book's generation
+# Valid values: ORIGINAL, COPY_OF_ORIGINAL, COPY_OF_COPY, TATTERED
+generation: ORIGINAL
+
+# Item's lore
+lore:
+  - Что известно про регионы
+  - 07.09.2021
+
+# Command to open this book
+# You can remove this by setting it to ''
+# Separate multiple commands with a space
+open_command: 'book_regions'
+
+pages:
+  '1':
+    - 'Сервер разбит на регионы.'
+    - 'Вещи инвентаря и игровая валюта копируется между регионами'
+    - 'Что бы не было проблем с потерей вещей после перехода в любой'
+    - 'регион нужно дождаться сообщения о том что инвентарь синхронизирован,'
+    - 'это не должно занимать больше секунды.'
+    - ''
+    - 'Изначально содержимое енд сундука тоже копировалось,'
+    - 'но люди просили это убрать, но это может вернуться.'
+    - 'Размер регионов разные и буду со временем расширятся'
+
+# For the placeholders to work correctly
+# you should download the Player and Vault
+# extensions for PlaceholderAPI:
+# /papi ecloud download Player
+# /papi ecloud download Vault
+# /papi reload
