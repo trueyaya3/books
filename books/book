@@ -18,7 +18,7 @@ lore:
 # Command to open this book
 # You can remove this by setting it to ''
 # Separate multiple commands with a space
-open_command: 'book_region_center'
+open_command: 'book'
 
 pages:
   '1':
