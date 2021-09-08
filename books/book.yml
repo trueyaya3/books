@@ -22,8 +22,10 @@ open_command: 'book'
 
 pages:
   '1':
-    - 'Все книги(кликабельны).'
+    - 'Все книги.'
+    - 'Ссылки.'
     - ''
-    - '<run command:/book_regions>Регионы<reset>'
-    - '<run command:/book_region_center>Центральный регион<reset>'
+    - '<run command:/book_regions>Регионы.<reset>'
+    - '<run command:/book_region_center>Центральный регион.<reset>'
+    - '<run command:/book_region_west>Восточный регион.<reset>'
 
