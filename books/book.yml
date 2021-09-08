@@ -24,6 +24,6 @@ pages:
   '1':
     - 'Все книги.'
     - ''
-    - '<run command:/help>Регионы &b/book_regions<reset>'
-    - '<run command:/help>Центральный регион &b/book_region_center<reset>'
+    - '<run command:/book_regions>Регионы<reset>'
+    - '<run command:/book_region_center>Центральный регион<reset>'
 
