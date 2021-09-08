@@ -25,7 +25,7 @@ pages:
     - 'Все книги.'
     - 'Ссылки.'
     - ''
-    - '<run command:/book_regions>Регионы.<reset>'
-    - '<run command:/book_region_center>Центральный регион.<reset>'
-    - '<run command:/book_region_west>Восточный регион.<reset>'
+    - ' - <run command:/book_regions>Регионы.<reset>'
+    - ' - <run command:/book_region_center>Центральный регион.<reset>'
+    - ' - <run command:/book_region_west>Восточный регион.<reset>'
 
