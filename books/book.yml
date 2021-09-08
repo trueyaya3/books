@@ -26,6 +26,6 @@ pages:
     - 'Ссылки.'
     - ''
     - ' - <run command:/book_regions>Регионы.<reset>'
-    - ' - <run command:/book_region_center>Центральный регион.<reset>'
-    - ' - <run command:/book_region_west>Восточный регион.<reset>'
+    - ' - <run command:/book_region_center>Центральный рг.<reset>'
+    - ' - <run command:/book_region_west>Восточный рг.<reset>'
 
