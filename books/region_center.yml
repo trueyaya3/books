@@ -1,0 +1,30 @@
+name: Центральный регион.
+
+# Book's title
+title: Центральный регион(08.09.2021)
+
+# Book's author
+author: trueyaya3
+
+# Book's generation
+# Valid values: ORIGINAL, COPY_OF_ORIGINAL, COPY_OF_COPY, TATTERED
+generation: ORIGINAL
+
+# Item's lore
+lore:
+  - Что известно про центральный регион
+  - 08.09.2021
+
+# Command to open this book
+# You can remove this by setting it to ''
+# Separate multiple commands with a space
+open_command: 'book_region_center'
+
+pages:
+  '1':
+    - 'Центральный регион.'
+    - ''
+    - 'Регион был создан первым еще при версии 1.16.1.'
+    - 'Изначальный размер региона был 40 тысяч блоков.'
+    - 'Со временем версия региона была обновлена до 1.17.1'
+    - 'и границы расширялись не один раз.'
