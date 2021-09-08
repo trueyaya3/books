@@ -1,0 +1,29 @@
+name: Индекс всех книг.
+
+# Book's title
+title: Индекс всех книг(08.09.2021)
+
+# Book's author
+author: trueyaya3
+
+# Book's generation
+# Valid values: ORIGINAL, COPY_OF_ORIGINAL, COPY_OF_COPY, TATTERED
+generation: ORIGINAL
+
+# Item's lore
+lore:
+  - Индекс всех книг
+  - 08.09.2021
+
+# Command to open this book
+# You can remove this by setting it to ''
+# Separate multiple commands with a space
+open_command: 'book_region_center'
+
+pages:
+  '1':
+    - 'Все книги.'
+    - ''
+    - '<run command:/help>Регионы &b/book_regions<reset>'
+    - '<run command:/help>Центральный регион &b/book_region_center<reset>'
+
