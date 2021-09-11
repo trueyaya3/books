@@ -13,7 +13,7 @@ generation: ORIGINAL
 # Item's lore
 lore:
   - Индекс всех книг
-  - 08.09.2021
+  - 11.09.2021
 
 # Command to open this book
 # You can remove this by setting it to ''
@@ -28,4 +28,4 @@ pages:
     - ' - <run command:/book_regions>Регионы.<reset>'
     - ' - <run command:/book_region_center>Центральный рг.<reset>'
     - ' - <run command:/book_region_west>Восточный рг.<reset>'
-
+    - ' - <run command:/book_region_уфые>Западный рг.<reset>'
