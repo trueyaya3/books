@@ -46,5 +46,6 @@ pages:
     - '<tooltip:открыть квесты><run command:/quest>&b/quests<reset>'
   '5':
     - '&1=> &0Занять топ в какой-то категории'
-    - '<tooltip:Ссылка на сайт><link:https://topmine.online/stats>Все категории<reset>'
-    - '<tooltip:Ссылка на сайт><link:https://topmine.online/punishment-history/index>&nСписок все выплат гемов<reset>'
+    - '<tooltip:Ссылка на сайт><link:https://topmine.online/stats>&nВсе категории<reset>'
+    - ''
+    - '<tooltip:Ссылка на сайт><link:https://topmine.online/punishment-history/index>&nСписок всех выплат гемов<reset>'
