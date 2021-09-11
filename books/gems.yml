@@ -1,4 +1,24 @@
+name: Игровая валюта.
 
+# Book's title
+title: Игровая валюта(11.09.2021)
+
+# Book's author
+author: trueyaya3
+
+# Book's generation
+# Valid values: ORIGINAL, COPY_OF_ORIGINAL, COPY_OF_COPY, TATTERED
+generation: ORIGINAL
+
+# Item's lore
+lore:
+  - Что известно гемы
+  - 11.09.2021
+
+# Command to open this book
+# You can remove this by setting it to ''
+# Separate multiple commands with a space
+open_command: 'book_gems'
 pages:
   '1':
     - 'Игровая валюта'
