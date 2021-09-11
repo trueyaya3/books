@@ -28,4 +28,4 @@ pages:
     - ' - <run command:/book_regions>Регионы.<reset>'
     - ' - <run command:/book_region_center>Центральный рг.<reset>'
     - ' - <run command:/book_region_west>Восточный рг.<reset>'
-    - ' - <run command:/book_region_уфые>Западный рг.<reset>'
+    - ' - <run command:/book_region_east>Западный рг.<reset>'
