@@ -43,7 +43,7 @@ pages:
     - ''
   '4':
     - '&e= &Выполняя квесты'
-    - '<tooltip:открыть квесты><run command:/quest>&b/quests<reset>
+    - '<tooltip:открыть квесты><run command:/quest>&b/quests<reset>'
   '5':
     - '&e= &Занять топ в какой-то категории'
     - '<link:https://topmine.online/stats>Все категории<reset>'
