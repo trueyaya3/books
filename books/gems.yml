@@ -39,12 +39,12 @@ pages:
     - 'но максимум от 100 до 250 в день'
     - ''
     - '&1=> &0убивая мобов'
-    - '<link:https://topmine.online/articles/mob-drop/>&nДетальней тут<reset>'
+    - '<tooltip:Ссылка на сайт<link:https://topmine.online/articles/mob-drop/>&nДетальней тут<reset>'
     - ''
   '4':
     - '&1=> &0Выполняя квесты'
     - '<tooltip:открыть квесты><run command:/quest>&b/quests<reset>'
   '5':
     - '&1=> &0Занять топ в какой-то категории'
-    - '<link:https://topmine.online/stats>Все категории<reset>'
-    - '<link:https://topmine.online/punishment-history/index>&nСписок все выплат гемов<reset>'
+    - '<tooltip:Ссылка на сайт<link:https://topmine.online/stats>Все категории<reset>'
+    - '<tooltip:Ссылка на сайт<link:https://topmine.online/punishment-history/index>&nСписок все выплат гемов<reset>'
