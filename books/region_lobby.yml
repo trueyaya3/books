@@ -40,4 +40,4 @@ pages:
     - '&0Меняйте пароль почаще'
     - '&b/changepass [старый] [новый]&0'
     - ''
-    - 'Если забыли пароль, то пишите в <link:https://discord.gg/zsuSE6WPxu>&nДискорд<reset>'
+    - 'Если забыли пароль, то пишите в <tooltip:ссылка><link:https://discord.gg/zsuSE6WPxu>&nДискорд<reset>'
