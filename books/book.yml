@@ -29,5 +29,7 @@ pages:
     - ' - <run command:/book_region_center>Центральный рг.<reset>'
     - ' - <run command:/book_region_west>Восточный рг.<reset>'
     - ' - <run command:/book_region_east>Западный рг.<reset>'
+    - ' - <run command:/book_region_lobby>Лобби рг.<reset>'
+    - ' - <run command:/book_region_pre>преЛобби рг.<reset>'
     - ' - <run command:/book_gems>Гемы<reset>'
     
