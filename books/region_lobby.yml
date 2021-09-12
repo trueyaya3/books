@@ -37,10 +37,7 @@ pages:
     - 'Вернутся в лобби из любого региона '
     - 'можно командой <tooltip:в лобби><run command:/lobby>&b/lobby<reset>'
   '4':
-    - 'Вернутся в лобби из любого региона '
-    - 'можно командой <tooltip:в лобби><run command:/lobby>&b/lobby<reset>'
-  '5':
     - '&0Меняйте пароль почаще'
-    - '&b/changepass [старый] [новый]'
+    - '&b/changepass [старый] [новый]&0'
     - ''
     - 'Если забыли пароль, то пишите в <link:https://discord.gg/zsuSE6WPxu>&nДискорд<reset>'
