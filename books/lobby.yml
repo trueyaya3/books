@@ -1,0 +1,46 @@
+name: Игровая валюта.
+
+# Book's title
+title: Лобби(12.09.2021)
+
+# Book's author
+author: trueyaya3
+
+# Book's generation
+# Valid values: ORIGINAL, COPY_OF_ORIGINAL, COPY_OF_COPY, TATTERED
+generation: ORIGINAL
+
+# Item's lore
+lore:
+  - Что известно про лоби
+  - 12.09.2021
+
+# Command to open this book
+# You can remove this by setting it to ''
+# Separate multiple commands with a space
+open_command: 'book_lobby'
+pages:
+  '1':
+    - 'Лобби'
+    - ''
+    - 'Прежде чем начать играть или '
+    - 'попасть на любой из регионов'
+    - 'любой игрок попадает в лобби'
+    - 'где он должен пройти регистрацию или залогиниться'
+    - ''
+  '2':
+    - 'Дальше из лобби можно выбрать' 
+    - 'на какой регион пойти играть'
+    - ''
+    - ''
+  '3':
+    - 'Вернутся в лобби из любого региона '
+    - 'можно командой <tooltip:в лобби><run command:/lobby>&b/lobby<reset>'
+  '4':
+    - 'Вернутся в лобби из любого региона '
+    - 'можно командой <tooltip:в лобби><run command:/lobby>&b/lobby<reset>'
+  '5':
+    - '&0Меняйте пароль почаще'
+    - '&b/changepass [старый] [новый]'
+    - ''
+    - 'Если забыли пароль, то пишите в <link:https://discord.gg/zsuSE6WPxu>&nДискорд<reset>'
