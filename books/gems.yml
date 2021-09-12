@@ -49,7 +49,7 @@ pages:
     - '<tooltip:Ссылка на сайт><link:https://topmine.online/stats>&nВсе категории<reset>'
     - ''
     - '<tooltip:Ссылка на сайт><link:https://topmine.online/punishment-history/index>&nСписок всех выплат гемов<reset>'
-  '6'
+  '6':
     - 'Выплаты'
     - 'potatos - 60'
     - 'carrots - 60'
@@ -58,7 +58,7 @@ pages:
     - 'debris - 50'
     - 'beetroots - 60'
     - 'spawner - 90'
-  '7'
+  '7':
     - 'fishedBooks - 60'
     - 'fishedFood - 60'
     - 'bwTop - 60'
