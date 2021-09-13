@@ -1,0 +1,42 @@
+name: Аукцион.
+
+# Book's title
+title: Аукцион(13.09.2021)
+
+# Book's author
+author: trueyaya3
+
+# Book's generation
+# Valid values: ORIGINAL, COPY_OF_ORIGINAL, COPY_OF_COPY, TATTERED
+generation: ORIGINAL
+
+# Item's lore
+lore:
+  - Что известно про аукцион
+  - 13.09.2021
+
+open_command: 'auction'
+
+pages:
+  '1':
+    - 'Аукцион - место где можно торговать'
+    - 'продавать и покупать за &aгемы товары'
+    - ''
+    - 'Попасть в аукцион можно'
+    - 'при помощи команды <run command:/ca>&b/ca<reset> или из меню <run command:/help>&b/help<reset>'
+    - ''
+  '2':
+    - 'Чтобы продать, возьми товар в руку'
+    - 'и используй команду'
+    - '&b/ca sell &6%цена за весь товар в руке%'
+    - ''
+    - 'пример'
+    - '&b/ca sell &6100'
+    - ''
+  '3':
+    - 'максимальная цена за товар 100 гемов'
+    - 'минимальная цена 10'
+    - 'в каждом регионе свой аукцион'
+
+
+    
