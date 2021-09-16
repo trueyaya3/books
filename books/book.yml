@@ -35,4 +35,6 @@ pages:
     - ' - <run command:/book_gems>Гемы<reset>'
     - ' - <run command:/auction>Аукцион<reset>'
     - ' - <run command:/book_shop>Магазин<reset>'
+    - ' - <run command:/book_quests>Квесты<reset>'
+    
     
