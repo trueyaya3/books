@@ -1,0 +1,34 @@
+name: Индекс всех книг.
+
+title: Магазин(16.09.2021)
+
+# Book's author
+author: trueyaya3
+
+# Book's generation
+# Valid values: ORIGINAL, COPY_OF_ORIGINAL, COPY_OF_COPY, TATTERED
+generation: ORIGINAL
+
+# Item's lore
+lore:
+  - Про магазин
+  - 16.09.2021
+
+# Command to open this book
+# You can remove this by setting it to ''
+# Separate multiple commands with a space
+open_command: 'book_shop'
+
+pages:
+  '1':
+    - 'Магазин.'
+    - 'Место где всегда есть товары.'
+    - 'Но только на покупку'
+    - ' '
+    - 'Товары за гемы, дорого, но всегда есть'
+  '2':
+    - 'Мазагин доступен по команде <tooltip:><run command:/shop>&b/shop<reset>'
+    - 'или в меню <tooltip:><run command:/help>&b/help<reset>'
+    - ' '
+    - 'Если нашли ошибку в магазине сообшите нам)'
+    
