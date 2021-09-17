@@ -46,5 +46,5 @@ pages:
     - 'или в меню <tooltip:><run command:/help>&b/help<reset>'        
   '5':
     - '----'
-    - 'Полугить книгу <run command:/interactivebooks get quests>&b/клоц<reset>'
+    - 'Получить книгу <run command:/interactivebooks get quests>&b/клоц<reset>'
 
