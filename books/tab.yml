@@ -39,5 +39,5 @@ pages:
     - '- Адрес сайта проекта'
   '3':
     - '----'
-    - 'Полугить книгу <run command:/interactivebooks get tab>&b/клоц<reset>'      
+    - 'Получить книгу <run command:/interactivebooks get tab>&b/клоц<reset>'      
     
