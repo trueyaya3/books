@@ -36,4 +36,4 @@ pages:
     - 'пропускают прелобби'
   '4':
     - '----'
-    - 'Полугить книгу <run command:/interactivebooks get region_prelobby>&b/клоц<reset>'    
+    - 'Получить книгу <run command:/interactivebooks get region_prelobby>&b/клоц<reset>'    
