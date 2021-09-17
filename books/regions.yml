@@ -53,4 +53,4 @@ pages:
     - '<tooltip:Перейти в центральный регион><run command:/spawn>Для перехода на спавн центрального региона используй &b/spawn<reset>'
   '6':
     - '----'
-    - 'Полугить книгу <run command:/interactivebooks get regions>&b/клоц<reset>'        
+    - 'Получить книгу <run command:/interactivebooks get regions>&b/клоц<reset>'        
