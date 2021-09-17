@@ -68,5 +68,5 @@ pages:
     - ' - аметисты: 80'
   '8':
     - '----'
-    - 'Полугить книгу <run command:/interactivebooks get gems>&b/клоц<reset>'
+    - 'Получить книгу <run command:/interactivebooks get gems>&b/клоц<reset>'
   
