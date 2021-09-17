@@ -66,5 +66,5 @@ pages:
     - 'Ограничено кол-во установки тнт в радиусе'
   '7':
     - '----'
-    - 'Полугить книгу <run command:/interactivebooks get region_center>&b/клоц<reset>'
+    - 'Получить книгу <run command:/interactivebooks get region_center>&b/клоц<reset>'
     
