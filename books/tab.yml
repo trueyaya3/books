@@ -8,7 +8,7 @@ author: trueyaya3
 
 # Book's generation
 # Valid values: ORIGINAL, COPY_OF_ORIGINAL, COPY_OF_COPY, TATTERED
-generation: ORIGINAL
+generation: COPY_OF_ORIGINAL
 
 # Item's lore
 lore:
