@@ -69,4 +69,4 @@ pages:
     - 'Но так и не достроился)'
   '8':
     - '----'
-    - 'Полугить книгу <run command:/interactivebooks get region_west>&b/клоц<reset>'        
+    - 'Получить книгу <run command:/interactivebooks get region_west>&b/клоц<reset>'        
