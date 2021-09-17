@@ -31,4 +31,6 @@ pages:
     - 'или в меню <tooltip:><run command:/help>&b/help<reset>'
     - ' '
     - 'Если нашли ошибку в магазине сообшите нам)'
-    
+  '3':
+    - '----'
+    - 'Полугить книгу <run command:/interactivebooks get shop>&b/клоц<reset>'      
