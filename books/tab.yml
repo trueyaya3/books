@@ -1,0 +1,33 @@
+name: Tab.
+
+# Book's title
+title: Tab(17.09.2021)
+
+# Book's author
+author: trueyaya3
+
+# Book's generation
+# Valid values: ORIGINAL, COPY_OF_ORIGINAL, COPY_OF_COPY, TATTERED
+generation: ORIGINAL
+
+# Item's lore
+lore:
+  - tab
+  - 17.09.2021
+
+# Command to open this book
+# You can remove this by setting it to ''
+# Separate multiple commands with a space
+open_command: 'book_tab'
+
+pages:
+  '1':
+    - 'Нажав tab помимо списка игроков всегда можно увидеть:'
+    - '- ваш пинг к серверу, меньше 100 это норм'
+    - '- ТПС сервера, если 20 то сервер не лагает'
+    - '- Дальность прорисовки чанков в разных мирах'
+    - '- Режим чата и как переключится в другой чат'
+    - '- Ваш баланс в гемах'
+    - '- IP сервера, то есть адрес для подключения'
+    - '- Адрес сайта проекта'
+    
