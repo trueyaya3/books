@@ -34,3 +34,6 @@ pages:
   '3':
     - 'Игроки белого, синего или желтого'
     - 'пропускают прелобби'
+  '4':
+    - '----'
+    - 'Полугить книгу <run command:/interactivebooks get region_prelobby>&b/клоц<reset>'    
