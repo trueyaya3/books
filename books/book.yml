@@ -36,5 +36,7 @@ pages:
     - ' - <run command:/auction>Аукцион<reset>'
     - ' - <run command:/book_shop>Магазин<reset>'
     - ' - <run command:/book_quests>Квесты<reset>'
+    - ' - <run command:/book_tab>tab<reset>'
+    - ' - <run command:/book_rangs>rangs<reset>'
     
     
