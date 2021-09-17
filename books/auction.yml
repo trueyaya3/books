@@ -39,6 +39,8 @@ pages:
     - 'минимальная цена 10'
     - ''
     - 'в каждом регионе свой аукцион'
+  '4':
+    - 'полугить книгу<run command:/interactivebooks get auction>&b/клоц<reset>'
 
 
     
