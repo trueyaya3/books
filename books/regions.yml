@@ -51,10 +51,6 @@ pages:
     - '<tooltip:Перейти в лобби><run command:/lobby>Для перехода в лобби есть отдельная коммана &b/lobby<reset>'
     - ''
     - '<tooltip:Перейти в центральный регион><run command:/spawn>Для перехода на спавн центрального региона используй &b/spawn<reset>'
-
-# For the placeholders to work correctly
-# you should download the Player and Vault
-# extensions for PlaceholderAPI:
-# /papi ecloud download Player
-# /papi ecloud download Vault
-# /papi reload
+  '6':
+    - '----'
+    - 'Полугить книгу <run command:/interactivebooks get regions>&b/клоц<reset>'        
