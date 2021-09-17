@@ -41,7 +41,7 @@ pages:
     - 'в каждом регионе свой аукцион'
   '4':
     - '----'
-    - 'Полугить книгу <run command:/interactivebooks get auction>&b/клоц<reset>'
+    - 'Получить книгу <run command:/interactivebooks get auction>&b/клоц<reset>'
 
 
     
