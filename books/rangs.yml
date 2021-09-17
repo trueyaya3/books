@@ -79,6 +79,6 @@ pages:
     - '- Они могут использовать команды связанные с кланами'
   '12':
     - '----'
-    - 'Полугить книгу <run command:/interactivebooks get rangs>&b/клоц<reset>'
+    - 'Получить книгу <run command:/interactivebooks get rangs>&b/клоц<reset>'
     
     
