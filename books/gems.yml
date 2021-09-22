@@ -1,7 +1,7 @@
 name: Игровая валюта.
 
 # Book's title
-title: Игровая валюта(12.09.2021)
+title: Игровая валюта(22.09.2021)
 
 # Book's author
 author: trueyaya3
@@ -13,7 +13,7 @@ generation: COPY_OF_ORIGINAL
 # Item's lore
 lore:
   - Что известно гемы
-  - 12.09.2021
+  - 22.09.2021
 
 # Command to open this book
 # You can remove this by setting it to ''
@@ -55,7 +55,7 @@ pages:
     - ' - марковка: 60'
     - ' - хлеб: 70'
     - ' - обсидиан: 70'
-    - ' - дневние обломки: 50'
+    - ' - древние обломки: 50'
     - ' - буряк: 60'
     - ' - спавнер: 90'
   '7':
