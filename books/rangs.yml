@@ -1,7 +1,7 @@
 name: Ранги игроков
 
 # Book's title
-title: Ранги(17.09.2021)
+title: Ранги(1.10.2021)
 
 # Book's author
 author: trueyaya3
@@ -13,7 +13,7 @@ generation: COPY_OF_ORIGINAL
 # Item's lore
 lore:
   - Что известно про группы игроков
-  - 17.09.2021
+  - 1.10.2021
 
 # Command to open this book
 # You can remove this by setting it to ''
