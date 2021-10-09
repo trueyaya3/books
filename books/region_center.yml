@@ -1,7 +1,7 @@
 name: Центральный регион.
 
 # Book's title
-title: Центральный регион(08.09.2021)
+title: Центральный регион(09.10.2021)
 
 # Book's author
 author: trueyaya3
@@ -13,7 +13,7 @@ generation: COPY_OF_ORIGINAL
 # Item's lore
 lore:
   - Что известно про центральный регион
-  - 08.09.2021
+  - 09.10.2021
 
 # Command to open this book
 # You can remove this by setting it to ''
@@ -65,6 +65,12 @@ pages:
     - ''
     - 'Ограничено кол-во установки тнт в радиусе'
   '7':
+    - '07.10.2021 Сервер был взломан и людям раздали креатив'
+    - ''
+    - 'Выло принято решение сделать вайп'
+    - ''
+    - 'Вайп прошел 08.10.2021'
+  '8':
     - '----'
     - 'Получить книгу <run command:/interactivebooks get region_center>&b/клоц<reset>'
     
