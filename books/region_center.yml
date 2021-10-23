@@ -1,7 +1,7 @@
 name: Центральный регион.
 
 # Book's title
-title: Центральный регион(09.10.2021)
+title: Центральный регион(23.10.2021)
 
 # Book's author
 author: trueyaya3
@@ -13,7 +13,7 @@ generation: COPY_OF_ORIGINAL
 # Item's lore
 lore:
   - Что известно про центральный регион
-  - 09.10.2021
+  - 23.10.2021
 
 # Command to open this book
 # You can remove this by setting it to ''
@@ -70,7 +70,18 @@ pages:
     - 'Выло принято решение сделать вайп'
     - ''
     - 'Вайп прошел 08.10.2021'
+    
   '8':
+    - 'Дистанция отрисоввки дял сущностей: '
+    - '  - players: 44
+    - '  - animals: 64
+    - '  - monsters: 64
+    - '  - misc: 32
+    - '  - other: 64
+    - ''
+    - 'Защита новичков: 240 минут'
+    - ''
+  '9':
     - '----'
     - 'Получить книгу <run command:/interactivebooks get region_center>&b/клоц<reset>'
     
