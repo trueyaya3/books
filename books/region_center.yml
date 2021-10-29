@@ -73,11 +73,11 @@ pages:
     
   '8':
     - 'Дистанция отрисоввки дял сущностей: '
-    - '  - players: 44
-    - '  - animals: 64
-    - '  - monsters: 64
-    - '  - misc: 32
-    - '  - other: 64
+    - '  - players: 44'
+    - '  - animals: 64'
+    - '  - monsters: 64'
+    - '  - misc: 32'
+    - '  - other: 64'
     - ''
     - 'Защита новичков: 240 минут'
     - 'Max entity cramming : 10'
