@@ -1,7 +1,7 @@
 name: Центральный регион.
 
 # Book's title
-title: Центральный регион(23.10.2021)
+title: Центральный регион(29.10.2021)
 
 # Book's author
 author: trueyaya3
@@ -13,7 +13,7 @@ generation: COPY_OF_ORIGINAL
 # Item's lore
 lore:
   - Что известно про центральный регион
-  - 23.10.2021
+  - 29.10.2021
 
 # Command to open this book
 # You can remove this by setting it to ''
