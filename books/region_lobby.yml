@@ -1,7 +1,7 @@
 name: Лобби.
 
 # Book's title
-title: Лобби(12.09.2021)
+title: Лобби(03.12.2021)
 
 # Book's author
 author: trueyaya3
@@ -13,7 +13,7 @@ generation: COPY_OF_ORIGINAL
 # Item's lore
 lore:
   - Что известно про лоби
-  - 12.09.2021
+  - 03.12.2021
 
 # Command to open this book
 # You can remove this by setting it to ''
@@ -32,7 +32,8 @@ pages:
     - 'Дальше из лобби можно выбрать' 
     - 'на какой регион пойти играть'
     - ''
-    - ''
+    - 'Только в лобби можно привязать аккаунт в дискор аккаунту'
+    - '<tooltip:только в лобби><run command:/discord link>&b/discord link<reset>'    
   '3':
     - 'Вернутся в лобби из любого региона '
     - 'можно командой <tooltip:в лобби><run command:/lobby>&b/lobby<reset>'
