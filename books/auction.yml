@@ -1,7 +1,7 @@
 name: Аукцион.
 
 # Book's title
-title: Аукцион(29.10.2021)
+title: Аукцион(03.12.2021)
 
 # Book's author
 author: trueyaya3
@@ -13,7 +13,7 @@ generation: COPY_OF_ORIGINAL
 # Item's lore
 lore:
   - Что известно про аукцион
-  - 29.10.2021
+  - 03.11.2021
 
 open_command: 'auction'
 
@@ -34,14 +34,13 @@ pages:
     - '&b/ah sell &6100'
     - ''
   '3':
-    - 'максимальная цена за товар 200 &aгемов&0'
+    - 'максимальная цена за товар 2000 &aгемов&0'
     - ''
     - 'минимальная цена 20'
+    - ''
+    - 'налог с продажи 10%'
     - ''
     - 'в каждом регионе свой аукцион'
   '4':
     - '----'
-    - 'Получить книгу <run command:/interactivebooks get auction>&b/клоц<reset>'
-
-
-    
+    - 'Получить книгу <run command:/interactivebooks get auction>&b/клоц<reset>'   
