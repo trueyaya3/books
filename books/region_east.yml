@@ -53,5 +53,17 @@ pages:
     - ''
     - ' - Ограничено кол-во установки тнт в радиусе'
   '6':
+    - 'Дистанция отрисоввки дял сущностей: '
+    - '  - players: 44'
+    - '  - animals: 64'
+    - '  - monsters: 64'
+    - '  - misc: 32'
+    - '  - other: 64'
+    - ''
+    - 'Защита новичков: 240 минут'
+    - 'Max entity cramming : 10'
+    - ''
+    
+  '7':
     - '----'
     - 'Получить книгу <run command:/interactivebooks get region_east>&b/клоц<reset>'
